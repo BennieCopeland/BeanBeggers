@@ -1,0 +1,2 @@
+# BeanBeggers
+A learning project
